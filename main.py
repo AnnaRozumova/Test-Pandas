@@ -45,27 +45,29 @@ class DataFrameHandler():
             filtered = self.df[self.df[prop].astype(str) == value]
         return filtered
     
-    def create_rule(self, rules):
-        filtered = self.df
-        for prop, value in rules.items():
-            if value == "":
-                continue
+    def create_rule(self, filters):
+        query_parts = []
 
-            if prop not in filtered.columns:
-                print(f"Property '{prop}' not found in the CSV file. Skipping...")
-                continue
+        for prop, value in filters.items():
+            if isinstance(value, tuple): 
+                min_val, max_val = value
+                if min_val is not None and max_val is not None:
+                    query_parts.append(f"({prop} >= {min_val} and {prop} <= {max_val})")
+                elif min_val is not None:
+                    query_parts.append(f"{prop} >= {min_val}")
+                elif max_val is not None:
+                    query_parts.append(f"{prop} <= {max_val}")
+            else:  
+                query_parts.append(f"{prop} == '{value}'")
 
-            col_dtype = filtered[prop].dtype
-            if pandas.api.types.is_numeric_dtype(col_dtype):
-                try:
-                    numeric_value = float(value)
-                except ValueError:
-                    print(f"Invalid numeric value '{value}' for property '{prop}'. Skipping this rule.")
-                    continue
-                filtered = filtered[filtered[prop] == numeric_value]
-            else:
-                filtered = filtered[filtered[prop].astype(str) == value]
-        return filtered
+        query_string = " and ".join(query_parts)
+
+        try:
+            return self.df.query(query_string) if query_string else self.df
+        except Exception as e:
+            print(f"Error in query: {e}")
+            return self.df.iloc[0:0] 
+
 
 
 def main():
@@ -113,20 +115,34 @@ def main():
         elif search == '2':
             print("\n--- Complex Search ---")
             print("Enter filter criteria for each property. Leave blank to ignore a property.")
-            rules = {}
-            for prop in handler.get_list_of_properties():
-                value = input(f"Enter value for '{prop}' (or press Enter to skip): ").strip()
-                rules[prop] = value
 
-            filtered_df = handler.create_rule(rules)
-            
+            filters = {}
+            for prop in handler.get_list_of_properties():
+                col_dtype = handler.df[prop].dtype
+
+                if pandas.api.types.is_numeric_dtype(col_dtype):
+                    min_val = input(f"Enter minimum value for '{prop}' (or press Enter to skip): ").strip()
+                    max_val = input(f"Enter maximum value for '{prop}' (or press Enter to skip): ").strip()
+
+                    min_val = float(min_val) if min_val else None
+                    max_val = float(max_val) if max_val else None
+
+                    if min_val is not None or max_val is not None:
+                        filters[prop] = (min_val, max_val)
+
+                else:
+                    value = input(f"Enter value for '{prop}' (or press Enter to skip): ").strip()
+                    if value:
+                        filters[prop] = value
+
+            filtered_df = handler.create_rule(filters)
+
             print("\n--- Filtered Rows ---")
             if filtered_df.empty:
                 print("No rows found matching the given criteria.")
             else:
                 print(filtered_df)
-                count = len(filtered_df)
-                print(f"\nFound {count} items matching the given criteria.")
+                print(f"\nFound {len(filtered_df)} items matching the given criteria.")
 
 
         else:
