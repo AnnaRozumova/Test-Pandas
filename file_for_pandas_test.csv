@@ -1,0 +1,241 @@
+auto,delka,sirka,vyska,typ,barva,material,pocet pasazeru,lak
+BMW,2.5,1.5,1,kombi,zluta,ocel,2,matny
+audi,3,1.3,1.1,sedan,zelena,tvrzeny plast,4,leskly
+skoda,3.5,1.6,1.2,hatchback,modra,ocel,5,matny
+renault,2.5,1.4,1.3,coupe,cervena,tvrzeny plast,6,leskly
+peugeot,3,1.5,1.4,MPV,bila,ocel,8,matny
+ford,3.5,1.3,1,SUV,cerna,tvrzeny plast,2,leskly
+toyota,2.5,1.6,1.1,kombi,seda,ocel,4,matny
+suzuki,3,1.4,1.2,sedan,duhova,tvrzeny plast,5,leskly
+BMW,3.5,1.5,1.3,hatchback,zluta,ocel,6,matny
+audi,2.5,1.3,1.4,coupe,zelena,tvrzeny plast,8,leskly
+skoda,3,1.6,1,MPV,modra,ocel,2,matny
+renault,3.5,1.4,1.1,SUV,cervena,tvrzeny plast,4,leskly
+peugeot,2.5,1.5,1.2,kombi,bila,ocel,5,matny
+ford,3,1.3,1.3,sedan,cerna,tvrzeny plast,6,leskly
+toyota,3.5,1.6,1.4,hatchback,seda,ocel,8,matny
+suzuki,2.5,1.4,1,coupe,duhova,tvrzeny plast,2,leskly
+BMW,3,1.5,1.1,MPV,zluta,ocel,4,matny
+audi,3.5,1.3,1.2,SUV,zelena,tvrzeny plast,5,leskly
+skoda,2.5,1.6,1.3,kombi,modra,ocel,6,matny
+renault,3,1.4,1.4,sedan,cervena,tvrzeny plast,8,leskly
+peugeot,3.5,1.5,1,hatchback,bila,ocel,2,matny
+ford,2.5,1.3,1.1,coupe,cerna,tvrzeny plast,4,leskly
+toyota,3,1.6,1.2,MPV,seda,ocel,5,matny
+suzuki,3.5,1.4,1.3,SUV,duhova,tvrzeny plast,6,leskly
+BMW,2.5,1.5,1.4,kombi,zluta,ocel,8,matny
+audi,3,1.3,1,sedan,zelena,tvrzeny plast,2,leskly
+skoda,3.5,1.6,1.1,hatchback,modra,ocel,4,matny
+renault,2.5,1.4,1.2,coupe,cervena,tvrzeny plast,5,leskly
+peugeot,3,1.5,1.3,MPV,bila,ocel,6,matny
+ford,3.5,1.3,1.4,SUV,cerna,tvrzeny plast,8,leskly
+toyota,2.5,1.6,1,kombi,seda,ocel,2,matny
+suzuki,3,1.4,1.1,sedan,duhova,tvrzeny plast,4,leskly
+BMW,3.5,1.5,1.2,hatchback,zluta,ocel,5,matny
+audi,2.5,1.3,1.3,coupe,zelena,tvrzeny plast,6,leskly
+skoda,3,1.6,1.4,MPV,modra,ocel,8,matny
+renault,3.5,1.4,1,SUV,cervena,tvrzeny plast,2,leskly
+peugeot,2.5,1.5,1.1,kombi,bila,ocel,4,matny
+ford,3,1.3,1.2,sedan,cerna,tvrzeny plast,5,leskly
+toyota,3.5,1.6,1.3,hatchback,seda,ocel,6,matny
+suzuki,2.5,1.4,1.4,coupe,duhova,tvrzeny plast,8,leskly
+BMW,3,1.5,1,MPV,zluta,ocel,2,matny
+audi,3.5,1.3,1.1,SUV,zelena,tvrzeny plast,4,leskly
+skoda,2.5,1.6,1.2,kombi,modra,ocel,5,matny
+renault,3,1.4,1.3,sedan,cervena,tvrzeny plast,6,leskly
+peugeot,3.5,1.5,1.4,hatchback,bila,ocel,8,matny
+ford,2.5,1.3,1,coupe,cerna,tvrzeny plast,2,leskly
+toyota,3,1.6,1.1,MPV,seda,ocel,4,matny
+suzuki,3.5,1.4,1.2,SUV,duhova,tvrzeny plast,5,leskly
+BMW,2.5,1.5,1.3,kombi,zluta,ocel,6,matny
+audi,3,1.3,1.4,sedan,zelena,tvrzeny plast,8,leskly
+skoda,3.5,1.6,1,hatchback,modra,ocel,2,matny
+renault,2.5,1.4,1.1,coupe,cervena,tvrzeny plast,4,leskly
+peugeot,3,1.5,1.2,MPV,bila,ocel,5,matny
+ford,3.5,1.3,1.3,SUV,cerna,tvrzeny plast,6,leskly
+toyota,2.5,1.6,1.4,kombi,seda,ocel,8,matny
+suzuki,3,1.4,1,sedan,duhova,tvrzeny plast,2,leskly
+BMW,3.5,1.5,1.1,hatchback,zluta,ocel,4,matny
+audi,2.5,1.3,1.2,coupe,zelena,tvrzeny plast,5,leskly
+skoda,3,1.6,1.3,MPV,modra,ocel,6,matny
+renault,3.5,1.4,1.4,SUV,cervena,tvrzeny plast,8,leskly
+peugeot,2.5,1.5,1,kombi,bila,ocel,2,matny
+ford,3,1.3,1.1,sedan,cerna,tvrzeny plast,4,leskly
+toyota,3.5,1.6,1.2,hatchback,seda,ocel,5,matny
+suzuki,2.5,1.4,1.3,coupe,duhova,tvrzeny plast,6,leskly
+BMW,3,1.5,1.4,MPV,zluta,ocel,8,matny
+audi,3.5,1.3,1,SUV,zelena,tvrzeny plast,2,leskly
+skoda,2.5,1.6,1.1,kombi,modra,ocel,4,matny
+renault,3,1.4,1.2,sedan,cervena,tvrzeny plast,5,leskly
+peugeot,3.5,1.5,1.3,hatchback,bila,ocel,6,matny
+ford,2.5,1.3,1.4,coupe,cerna,tvrzeny plast,8,leskly
+toyota,3,1.6,1,MPV,seda,ocel,2,matny
+suzuki,3.5,1.4,1.1,SUV,duhova,tvrzeny plast,4,leskly
+BMW,2.5,1.5,1.2,kombi,zluta,ocel,5,matny
+audi,3,1.3,1.3,sedan,zelena,tvrzeny plast,6,leskly
+skoda,3.5,1.6,1.4,hatchback,modra,ocel,8,matny
+renault,2.5,1.4,1,coupe,cervena,tvrzeny plast,2,leskly
+peugeot,3,1.5,1.1,MPV,bila,ocel,4,matny
+ford,3.5,1.3,1.2,SUV,cerna,tvrzeny plast,5,leskly
+toyota,2.5,1.6,1.3,kombi,seda,ocel,6,matny
+suzuki,3,1.4,1.4,sedan,duhova,tvrzeny plast,8,leskly
+skoda,3.5,1.5,1,kombi,zluta,ocel,4,leskly
+ford,3.5,1.3,1,sedan,zelena,tvrzeny plast,6,leskly
+BMW,3.5,1.6,1,hatchback,modra,ocel,2,leskly
+renault,3.5,1.4,1,coupe,cervena,tvrzeny plast,5,leskly
+toyota,3.5,1.5,1,MPV,bila,ocel,8,leskly
+audi,3.5,1.3,1,SUV,cerna,tvrzeny plast,4,leskly
+peugeot,3.5,1.6,1,kombi,seda,ocel,6,leskly
+suzuki,3.5,1.4,1,sedan,duhova,tvrzeny plast,2,leskly
+skoda,3.5,1.5,1,hatchback,zluta,ocel,5,leskly
+ford,3.5,1.3,1,coupe,zelena,tvrzeny plast,8,leskly
+BMW,3.5,1.6,1,MPV,modra,ocel,4,leskly
+renault,3.5,1.4,1,SUV,cervena,tvrzeny plast,6,leskly
+toyota,3.5,1.5,1,kombi,bila,ocel,2,leskly
+audi,3.5,1.3,1,sedan,cerna,tvrzeny plast,5,leskly
+peugeot,3.5,1.6,1,hatchback,seda,ocel,8,leskly
+suzuki,3.5,1.4,1,coupe,duhova,tvrzeny plast,4,leskly
+skoda,3.5,1.3,1.1,MPV,zluta,ocel,6,leskly
+ford,3.5,1.6,1.1,SUV,zelena,tvrzeny plast,2,leskly
+BMW,3.5,1.4,1.1,kombi,modra,ocel,5,leskly
+renault,3.5,1.5,1.1,sedan,cervena,tvrzeny plast,8,leskly
+toyota,3.5,1.3,1.1,hatchback,bila,ocel,4,leskly
+audi,3.5,1.6,1.1,coupe,cerna,tvrzeny plast,6,leskly
+peugeot,3.5,1.4,1.1,MPV,seda,ocel,2,leskly
+suzuki,3.5,1.5,1.1,SUV,duhova,tvrzeny plast,5,leskly
+skoda,3.5,1.3,1.1,kombi,zluta,ocel,8,leskly
+ford,3.5,1.6,1.1,sedan,zelena,tvrzeny plast,4,leskly
+audi,3,1.4,1.1,hatchback,modra,ocel,6,leskly
+peugeot,3,1.5,1.1,coupe,cervena,tvrzeny plast,2,leskly
+suzuki,3,1.3,1.1,MPV,bila,ocel,5,leskly
+skoda,3,1.6,1.1,SUV,cerna,tvrzeny plast,8,leskly
+ford,3,1.4,1.1,kombi,seda,ocel,4,leskly
+BMW,3,1.5,1.1,sedan,duhova,tvrzeny plast,6,leskly
+renault,3,1.6,1.2,hatchback,zluta,ocel,2,leskly
+toyota,3,1.4,1.2,coupe,zelena,tvrzeny plast,5,leskly
+audi,3,1.5,1.2,MPV,modra,ocel,8,leskly
+peugeot,3,1.3,1.2,SUV,cervena,tvrzeny plast,4,leskly
+suzuki,3,1.6,1.2,kombi,bila,ocel,6,leskly
+skoda,3,1.4,1.2,sedan,cerna,tvrzeny plast,2,leskly
+ford,3,1.5,1.2,hatchback,seda,ocel,5,leskly
+BMW,3,1.3,1.2,coupe,duhova,tvrzeny plast,8,leskly
+renault,3,1.6,1.2,MPV,zluta,ocel,2,matny
+toyota,3,1.4,1.2,SUV,zelena,tvrzeny plast,5,matny
+audi,3,1.5,1.2,kombi,modra,ocel,8,matny
+peugeot,3,1.3,1.2,sedan,cervena,tvrzeny plast,4,matny
+suzuki,3,1.6,1.2,hatchback,bila,ocel,6,matny
+skoda,3,1.4,1.2,coupe,cerna,tvrzeny plast,2,matny
+ford,3,1.5,1.2,MPV,seda,ocel,5,matny
+BMW,3,1.3,1.2,SUV,duhova,tvrzeny plast,8,matny
+renault,3,1.4,1.3,kombi,zluta,ocel,4,matny
+toyota,3,1.5,1.3,sedan,zelena,tvrzeny plast,6,matny
+audi,3,1.3,1.3,hatchback,modra,ocel,2,matny
+peugeot,3,1.6,1.3,coupe,cervena,tvrzeny plast,5,matny
+suzuki,3,1.4,1.3,MPV,bila,ocel,8,matny
+BMW,2.5,1.5,1.3,SUV,cerna,tvrzeny plast,4,matny
+renault,2.5,1.3,1.3,kombi,seda,ocel,6,matny
+toyota,2.5,1.6,1.3,sedan,duhova,tvrzeny plast,2,matny
+audi,2.5,1.4,1.3,hatchback,zluta,ocel,5,matny
+peugeot,2.5,1.5,1.3,coupe,zelena,tvrzeny plast,8,matny
+suzuki,2.5,1.3,1.3,MPV,modra,ocel,4,matny
+skoda,2.5,1.6,1.3,SUV,cervena,tvrzeny plast,6,matny
+ford,2.5,1.4,1.3,kombi,bila,ocel,2,matny
+BMW,2.5,1.5,1.3,sedan,cerna,tvrzeny plast,5,matny
+renault,2.5,1.3,1.3,hatchback,seda,ocel,8,matny
+toyota,2.5,1.6,1.3,coupe,duhova,tvrzeny plast,4,matny
+audi,2.5,1.5,1.4,MPV,zluta,ocel,6,matny
+peugeot,2.5,1.3,1.4,SUV,zelena,tvrzeny plast,2,matny
+suzuki,2.5,1.6,1.4,kombi,modra,ocel,5,matny
+skoda,2.5,1.4,1.4,sedan,cervena,tvrzeny plast,8,matny
+ford,2.5,1.5,1.4,hatchback,bila,ocel,4,matny
+BMW,2.5,1.3,1.4,coupe,cerna,tvrzeny plast,6,matny
+renault,2.5,1.6,1.4,MPV,seda,ocel,2,matny
+toyota,2.5,1.4,1.4,SUV,duhova,tvrzeny plast,5,matny
+audi,2.5,1.5,1.4,kombi,zluta,ocel,8,matny
+peugeot,2.5,1.3,1.4,sedan,zelena,tvrzeny plast,4,matny
+suzuki,2.5,1.6,1.4,hatchback,modra,ocel,6,matny
+skoda,2.5,1.4,1.4,coupe,cervena,tvrzeny plast,2,matny
+ford,2.5,1.5,1.4,MPV,bila,ocel,5,matny
+BMW,2.5,1.3,1.4,SUV,cerna,tvrzeny plast,8,matny
+renault,2.5,1.6,1.4,kombi,seda,ocel,4,matny
+toyota,2.5,1.4,1.4,sedan,duhova,tvrzeny plast,6,matny
+skoda,3.5,1.5,1,kombi,zluta,ocel,4,leskly
+ford,3.5,1.3,1,hatchback,modra,ocel,6,leskly
+BMW,3.5,1.6,1,MPV,bila,ocel,2,leskly
+renault,3.5,1.4,1,kombi,seda,ocel,5,leskly
+toyota,3.5,1.5,1,hatchback,zluta,ocel,8,leskly
+audi,3.5,1.3,1,MPV,modra,ocel,4,leskly
+peugeot,3.5,1.6,1,kombi,bila,ocel,6,leskly
+suzuki,3.5,1.4,1,hatchback,seda,ocel,2,leskly
+skoda,3.5,1.5,1.1,MPV,zluta,ocel,5,leskly
+ford,3.5,1.3,1.1,kombi,modra,ocel,8,leskly
+BMW,3.5,1.6,1.1,hatchback,bila,ocel,4,leskly
+renault,3.5,1.4,1.1,MPV,seda,ocel,6,leskly
+toyota,3.5,1.5,1.1,kombi,zluta,ocel,2,leskly
+audi,3.5,1.3,1.1,hatchback,modra,ocel,5,leskly
+peugeot,3.5,1.6,1.1,MPV,bila,ocel,8,leskly
+suzuki,3.5,1.4,1.1,kombi,seda,ocel,4,leskly
+skoda,3.5,1.3,1.2,hatchback,zluta,ocel,6,leskly
+ford,3.5,1.6,1.2,MPV,modra,ocel,2,leskly
+BMW,3.5,1.4,1.2,kombi,bila,ocel,5,leskly
+renault,3.5,1.5,1.2,hatchback,seda,ocel,8,leskly
+toyota,3.5,1.3,1.2,MPV,zluta,ocel,4,leskly
+audi,3.5,1.6,1.2,kombi,modra,ocel,6,leskly
+peugeot,3.5,1.4,1.2,hatchback,bila,ocel,2,leskly
+suzuki,3.5,1.5,1.2,MPV,seda,ocel,5,leskly
+skoda,3.5,1.3,1.3,kombi,zluta,ocel,8,leskly
+ford,3.5,1.6,1.3,hatchback,modra,ocel,4,leskly
+audi,3,1.4,1.3,MPV,bila,ocel,6,leskly
+peugeot,3,1.5,1.3,kombi,seda,ocel,2,leskly
+suzuki,3,1.3,1.3,hatchback,zluta,ocel,5,leskly
+skoda,3,1.6,1.3,MPV,modra,ocel,8,leskly
+ford,3,1.4,1.3,kombi,bila,ocel,4,leskly
+BMW,3,1.5,1.3,hatchback,seda,ocel,6,leskly
+renault,3,1.6,1.4,MPV,zluta,ocel,2,leskly
+toyota,3,1.4,1.4,kombi,modra,ocel,5,leskly
+audi,3,1.5,1.4,hatchback,bila,ocel,8,leskly
+peugeot,3,1.3,1.4,MPV,seda,ocel,4,leskly
+suzuki,3,1.6,1.4,kombi,zluta,ocel,6,leskly
+skoda,3,1.4,1.4,hatchback,modra,ocel,2,leskly
+ford,3,1.5,1.4,MPV,bila,ocel,5,leskly
+BMW,3,1.3,1.4,kombi,seda,ocel,8,leskly
+renault,3,1.6,1,sedan,zelena,tvrzeny plast,2,matny
+toyota,3,1.4,1,coupe,cervena,tvrzeny plast,5,matny
+audi,3,1.5,1,SUV,cerna,tvrzeny plast,8,matny
+peugeot,3,1.3,1,sedan,duhova,tvrzeny plast,4,matny
+suzuki,3,1.6,1,coupe,zelena,tvrzeny plast,6,matny
+skoda,3,1.4,1,SUV,cervena,tvrzeny plast,2,matny
+ford,3,1.5,1,sedan,cerna,tvrzeny plast,5,matny
+BMW,3,1.3,1,coupe,duhova,tvrzeny plast,8,matny
+renault,3,1.4,1.1,SUV,zelena,tvrzeny plast,4,matny
+toyota,3,1.5,1.1,sedan,cervena,tvrzeny plast,6,matny
+audi,3,1.3,1.1,coupe,cerna,tvrzeny plast,2,matny
+peugeot,3,1.6,1.1,SUV,duhova,tvrzeny plast,5,matny
+suzuki,3,1.4,1.1,sedan,zelena,tvrzeny plast,8,matny
+BMW,2.5,1.5,1.1,coupe,cervena,tvrzeny plast,4,matny
+renault,2.5,1.3,1.1,SUV,cerna,tvrzeny plast,6,matny
+toyota,2.5,1.6,1.1,sedan,duhova,tvrzeny plast,2,matny
+audi,2.5,1.4,1.2,coupe,zelena,tvrzeny plast,5,matny
+peugeot,2.5,1.5,1.2,SUV,cervena,tvrzeny plast,8,matny
+suzuki,2.5,1.3,1.2,sedan,cerna,tvrzeny plast,4,matny
+skoda,2.5,1.6,1.2,coupe,duhova,tvrzeny plast,6,matny
+ford,2.5,1.4,1.2,SUV,zelena,tvrzeny plast,2,matny
+BMW,2.5,1.5,1.2,sedan,cervena,tvrzeny plast,5,matny
+renault,2.5,1.3,1.2,coupe,cerna,tvrzeny plast,8,matny
+toyota,2.5,1.6,1.2,SUV,duhova,tvrzeny plast,4,matny
+audi,2.5,1.5,1.3,sedan,zelena,tvrzeny plast,6,matny
+peugeot,2.5,1.3,1.3,coupe,cervena,tvrzeny plast,2,matny
+suzuki,2.5,1.6,1.3,SUV,cerna,tvrzeny plast,5,matny
+skoda,2.5,1.4,1.3,sedan,duhova,tvrzeny plast,8,matny
+ford,2.5,1.5,1.3,coupe,zelena,tvrzeny plast,4,matny
+BMW,2.5,1.3,1.3,SUV,cervena,tvrzeny plast,6,matny
+renault,2.5,1.6,1.3,sedan,cerna,tvrzeny plast,2,matny
+toyota,2.5,1.4,1.3,coupe,duhova,tvrzeny plast,5,matny
+audi,2.5,1.5,1.4,SUV,zelena,tvrzeny plast,8,matny
+peugeot,2.5,1.3,1.4,sedan,cervena,tvrzeny plast,4,matny
+suzuki,2.5,1.6,1.4,coupe,cerna,tvrzeny plast,6,matny
+skoda,2.5,1.4,1.4,SUV,duhova,tvrzeny plast,2,matny
+ford,2.5,1.5,1.4,sedan,zelena,tvrzeny plast,5,matny
+BMW,2.5,1.3,1.4,coupe,cervena,tvrzeny plast,8,matny
+renault,2.5,1.6,1.4,SUV,cerna,tvrzeny plast,4,matny
+toyota,2.5,1.4,1.4,sedan,duhova,tvrzeny plast,6,matny
